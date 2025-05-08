@@ -1,4 +1,4 @@
-# Neflix-Global-Insights
+# Netflix-Global-Insights
 Analysis of Netflix Trends
 
 ## Netflix Content Analysis Dashboard
